@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+mne
+xgboost
+shap
+antropy
+PyWavelets
